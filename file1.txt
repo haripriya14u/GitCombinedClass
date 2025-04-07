@@ -1,1 +1,1 @@
-Hello from offline folder
+Git is Global Information Tracker.
